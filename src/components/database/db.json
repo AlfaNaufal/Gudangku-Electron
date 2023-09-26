@@ -1,0 +1,128 @@
+{
+  "admin": [
+    {
+      "id": 1,
+      "nama": "admin1",
+      "pw": "admin1"
+    }
+  ],
+  "jenis": [
+    {
+      "id_jenis": 1,
+      "nama": "proyektor"
+    },
+    {
+      "id_jenis": 2,
+      "nama": "speaker"
+    },
+    {
+      "id_jenis": 3,
+      "nama": "alatbersih"
+    }
+  ],
+  "pinjam": [],
+  "riwayat": [
+    {
+      "id": "1",
+      "admin": "adm",
+      "nama": "vasa",
+      "kelas": "12",
+      "no_tlp": "098765",
+      "id_barang": "10",
+      "jenis": "sapu",
+      "durasi": "1:00:00 PM",
+      "kembali": "12:49:30 PM"
+    },
+    {
+      "id": "2",
+      "admin": "Admin",
+      "nama": "Paris",
+      "kelas": "XII AK 5",
+      "no_tlp": "087623456789",
+      "id_barang": "2",
+      "jenis": "Proyektor",
+      "durasi": "9:00:00 PM",
+      "kembali": "7:15:46 PM"
+    }
+  ],
+  "datas": [
+    {
+      "id_jenis": "1",
+      "id": 1,
+      "nama": "proyektor 1",
+      "gambar": "Projector.png"
+    },
+    {
+      "id_jenis": "1",
+      "id": 2,
+      "nama": "proyektor 2",
+      "gambar": "Projector.png"
+    },
+    {
+      "id_jenis": "1",
+      "id": 3,
+      "nama": "proyektor 3",
+      "gambar": "Projector.png"
+    },
+    {
+      "id_jenis": "1",
+      "id": 4,
+      "nama": "proyektor 4",
+      "gambar": "Projector.png"
+    },
+    {
+      "id_jenis": "1",
+      "id": 5,
+      "nama": "proyektor 5",
+      "gambar": "Projector.png"
+    },
+    {
+      "id_jenis": "1",
+      "id": 6,
+      "nama": "proyektor 6",
+      "gambar": "Projector.png"
+    },
+    {
+      "id_jenis": "2",
+      "id": 7,
+      "nama": "speaker 1",
+      "gambar": "speaker.jpg"
+    },
+    {
+      "id_jenis": "2",
+      "id": 8,
+      "nama": "speaker 2",
+      "gambar": "speaker.jpg"
+    },
+    {
+      "id_jenis": "2",
+      "id": 9,
+      "nama": "speaker 3",
+      "gambar": "speaker.jpg"
+    },
+    {
+      "id_jenis": "3",
+      "id": 10,
+      "nama": "Sweeper",
+      "gambar": "bersih1.png"
+    },
+    {
+      "id_jenis": "3",
+      "id": 11,
+      "nama": "Pacul",
+      "gambar": "bersih2.png"
+    },
+    {
+      "id_jenis": "3",
+      "id": 12,
+      "nama": "Mop",
+      "gambar": "bersih3.png"
+    },
+    {
+      "id_jenis": "3",
+      "id": 13,
+      "nama": "sapu",
+      "gambar": "bersih1.png"
+    }
+  ]
+}
